@@ -18,6 +18,13 @@ export default [
     javadoc: [{artifact: 'de.chojo.sadu:sadu'}],
   },
   {
+    id: 'publishdata',
+    title: 'PublishData',
+    description: 'A Gradle plugin that versions builds from git tags and branches and publishes each to the right repository.',
+    group: 'gradle',
+    sources: [{repo: 'rainbowdashlabs/publishdata', ref: 'chore/project-setup'}],
+  },
+  {
     id: 'reputation-bot',
     title: 'Reputation Bot',
     description: 'A Discord bot that gives reputation when people thank each other, with rankings, roles and a web dashboard.',
