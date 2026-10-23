@@ -22,7 +22,7 @@ export default [
     title: 'PublishData',
     description: 'A Gradle plugin that versions builds from git tags and branches and publishes each to the right repository.',
     group: 'gradle',
-    sources: [{repo: 'rainbowdashlabs/publishdata', ref: 'chore/project-setup'}],
+    sources: [{repo: 'rainbowdashlabs/publishdata'}],
   },
   {
     id: 'reputation-bot',
