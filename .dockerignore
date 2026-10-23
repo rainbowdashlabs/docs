@@ -1,0 +1,9 @@
+.git
+.concept
+.direnv
+.idea
+node_modules
+build
+.docusaurus
+.spaces
+.cache
