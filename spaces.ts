@@ -10,6 +10,14 @@ export default [
     javadoc: [{artifact: 'dev.chojo:ocular'}],
   },
   {
+    id: 'sadu',
+    title: 'SADU',
+    description: 'SQL and damn utilities: data sources, a query builder, row mapping and a schema updater for plain JDBC.',
+    group: 'libraries',
+    sources: [{repo: 'rainbowdashlabs/sadu', ref: 'chore/project-setup'}],
+    javadoc: [{artifact: 'de.chojo.sadu:sadu'}],
+  },
+  {
     id: 'reputation-bot',
     title: 'Reputation Bot',
     description: 'A Discord bot that gives reputation when people thank each other, with rankings, roles and a web dashboard.',
