@@ -14,7 +14,7 @@ export default [
     title: 'Reputation Bot',
     description: 'A Discord bot that gives reputation when people thank each other, with rankings, roles and a web dashboard.',
     group: 'bots',
-    sources: [{repo: 'rainbowdashlabs/reputation-bot', ref: 'docs/hub'}],
+    sources: [{repo: 'rainbowdashlabs/reputation-bot'}],
   },{
     id: 'lyna',
     title: 'Lyna',
