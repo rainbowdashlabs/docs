@@ -10,6 +10,12 @@ export default [
     javadoc: [{artifact: 'dev.chojo:ocular'}],
   },
   {
+    id: 'reputation-bot',
+    title: 'Reputation Bot',
+    description: 'A Discord bot that gives reputation when people thank each other, with rankings, roles and a web dashboard.',
+    group: 'bots',
+    sources: [{repo: 'rainbowdashlabs/reputation-bot', ref: 'docs/hub'}],
+  },{
     id: 'lyna',
     title: 'Lyna',
     description: 'A Discord bot and web app that sells licenses, grants roles and serves downloads from a Nexus.',
