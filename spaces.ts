@@ -6,7 +6,7 @@ export default [
     title: 'Ocular',
     description: 'Configuration files with Jackson: typed classes in JSON, YAML or TOML, with overrides from the environment.',
     group: 'libraries',
-    sources: [{repo: 'rainbowdashlabs/ocular', ref: 'chore/project-setup'}],
+    sources: [{repo: 'rainbowdashlabs/ocular'}],
     javadoc: [{artifact: 'dev.chojo:ocular'}],
   },
 ] satisfies Space[]
