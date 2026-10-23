@@ -14,7 +14,7 @@ export default [
     title: 'SADU',
     description: 'SQL and damn utilities: data sources, a query builder, row mapping and a schema updater for plain JDBC.',
     group: 'libraries',
-    sources: [{repo: 'rainbowdashlabs/sadu', ref: 'chore/project-setup'}],
+    sources: [{repo: 'rainbowdashlabs/sadu'}],
     javadoc: [{artifact: 'de.chojo.sadu:sadu'}],
   },
   {
