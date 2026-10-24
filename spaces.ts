@@ -58,4 +58,12 @@ export default [
     group: 'bots',
     sources: [{repo: 'rainbowdashlabs/krile'}],
   },
+  {
+    id: 'aether',
+    title: 'Aether',
+    description: 'Building blocks for Discord bots on JDA and jda-commands: subscriptions and access checks, Ko-fi, mail verification, Discord login and JSON views of Discord objects.',
+    group: 'libraries',
+    sources: [{repo: 'rainbowdashlabs/aether', ref: 'chore/project-setup'}],
+    javadoc: [{artifact: 'dev.chojo.aether:aether'}],
+  },
 ] satisfies Space[]
