@@ -51,4 +51,11 @@ export default [
     group: 'libraries',
     sources: [{repo: 'rainbowdashlabs/nexus-api-wrapper'}],
   },
+  {
+    id: 'krile',
+    title: 'Krile',
+    description: 'A Discord bot for tags kept as Markdown files in Git repositories and shared between servers.',
+    group: 'bots',
+    sources: [{repo: 'rainbowdashlabs/krile', ref: 'docs/hub'}],
+  },
 ] satisfies Space[]
