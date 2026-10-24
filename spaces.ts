@@ -49,6 +49,6 @@ export default [
     title: 'Nexus API Wrapper',
     description: 'A Java client for the Nexus Repository 3 REST API: search, download and list artifacts and repositories.',
     group: 'libraries',
-    sources: [{repo: 'rainbowdashlabs/nexus-api-wrapper', ref: 'chore/project-setup'}],
+    sources: [{repo: 'rainbowdashlabs/nexus-api-wrapper'}],
   },
 ] satisfies Space[]
