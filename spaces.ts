@@ -22,7 +22,7 @@ export default [
     title: 'Universalis Java',
     description: 'A Java client for the Universalis market board API of Final Fantasy XIV, over REST and WebSocket.',
     group: 'libraries',
-    sources: [{repo: 'rainbowdashlabs/universalis-java', ref: 'chore/project-setup'}],
+    sources: [{repo: 'rainbowdashlabs/universalis-java'}],
   },
   {
     id: 'publishdata',
