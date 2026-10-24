@@ -56,6 +56,6 @@ export default [
     title: 'Krile',
     description: 'A Discord bot for tags kept as Markdown files in Git repositories and shared between servers.',
     group: 'bots',
-    sources: [{repo: 'rainbowdashlabs/krile', ref: 'docs/hub'}],
+    sources: [{repo: 'rainbowdashlabs/krile'}],
   },
 ] satisfies Space[]
