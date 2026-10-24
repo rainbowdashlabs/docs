@@ -18,6 +18,13 @@ export default [
     javadoc: [{artifact: 'de.chojo.sadu:sadu'}],
   },
   {
+    id: 'universalis',
+    title: 'Universalis Java',
+    description: 'A Java client for the Universalis market board API of Final Fantasy XIV, over REST and WebSocket.',
+    group: 'libraries',
+    sources: [{repo: 'rainbowdashlabs/universalis-java', ref: 'chore/project-setup'}],
+  },
+  {
     id: 'publishdata',
     title: 'PublishData',
     description: 'A Gradle plugin that versions builds from git tags and branches and publishes each to the right repository.',
