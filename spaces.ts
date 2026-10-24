@@ -35,6 +35,6 @@ export default [
     title: 'Lyna',
     description: 'A Discord bot and web app that sells licenses, grants roles and serves downloads from a Nexus.',
     group: 'bots',
-    sources: [{repo: 'rainbowdashlabs/lyna', ref: 'feature/docs'}],
+    sources: [{repo: 'rainbowdashlabs/lyna'}],
   },
 ] satisfies Space[]
