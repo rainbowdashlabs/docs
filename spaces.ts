@@ -49,7 +49,7 @@ export default [
     title: 'Lolorito',
     description: 'A Discord bot and web app for the Final Fantasy XIV market board: cross-world offers, a shopping route planner and price alerts.',
     group: 'bots',
-    sources: [{repo: 'rainbowdashlabs/lolorito', ref: 'streamline-setup'}],
+    sources: [{repo: 'rainbowdashlabs/lolorito'}],
   },
   {
     id: 'nexus-api-wrapper',
