@@ -45,6 +45,13 @@ export default [
     sources: [{repo: 'rainbowdashlabs/lyna'}],
   },
   {
+    id: 'lolorito',
+    title: 'Lolorito',
+    description: 'A Discord bot and web app for the Final Fantasy XIV market board: cross-world offers, a shopping route planner and price alerts.',
+    group: 'bots',
+    sources: [{repo: 'rainbowdashlabs/lolorito', ref: 'streamline-setup'}],
+  },
+  {
     id: 'nexus-api-wrapper',
     title: 'Nexus API Wrapper',
     description: 'A Java client for the Nexus Repository 3 REST API: search, download and list artifacts and repositories.',
