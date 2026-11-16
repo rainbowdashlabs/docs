@@ -10,6 +10,13 @@ export default [
     javadoc: [{artifact: 'dev.chojo:ocular'}],
   },
   {
+    id: 'cjda-util',
+    title: 'cjda-util',
+    description: 'A toolbox for JDA bots: commands, localization, menus, pagination, premium checks and bot lists.',
+    group: 'libraries',
+    sources: [{repo: 'rainbowdashlabs/cjda-util'}],
+  },
+  {
     id: 'sadu',
     title: 'SADU',
     description: 'SQL and damn utilities: data sources, a query builder, row mapping and a schema updater for plain JDBC.',
