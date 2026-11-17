@@ -15,6 +15,7 @@ export default [
     description: 'A toolbox for JDA bots: commands, localization, menus, pagination, premium checks and bot lists.',
     group: 'libraries',
     sources: [{repo: 'rainbowdashlabs/cjda-util'}],
+    javadoc: [{artifact: 'de.chojo:cjda-util'}],
   },
   {
     id: 'sadu',
